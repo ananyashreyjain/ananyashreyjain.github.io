@@ -8,8 +8,8 @@ I am a punctual and motivated individual who is able to work in a busy environme
 # Contributions
 
  I stumbled upon [Astropy](./astropy.html) while searching for astronomy related projects on GitHub,
- sometime around 20th November 2017.I have attempted to fix issues and understand
- Astropy codebase since then.I also applied for Gsoc through Astropy.[Here](./Gsoc) is my project proposal.
+ sometime around 20th November 2017. I have attempted to fix issues and understand
+ Astropy codebase since then. I also applied for Gsoc through Astropy. [Here](./Gsoc.pdf) is my project proposal.
 
 # Projects
 
