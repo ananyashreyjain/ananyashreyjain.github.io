@@ -7,7 +7,7 @@ I am a punctual and motivated individual who is able to work in a busy environme
 
 # Contributions
 
- I stumbled upon [Astropy](./astropy.html) while searching for astronomy related projects on GitHub,
+ I stumbled upon [Astropy](https://github.com/astropy/astropy) while searching for astronomy related projects on GitHub,
  sometime around 20th November 2017. I have attempted to fix issues and understand
  Astropy codebase since then. I also applied for Gsoc through Astropy. [Here](./Gsoc.pdf) is my project proposal.
 
@@ -32,4 +32,4 @@ I am a punctual and motivated individual who is able to work in a busy environme
 ## GLMC
    OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language(GLSL).
    GLM provides classes and functions designed and implemented with the same naming conventions and functionalities than GLSL so that anyone who knows GLSL, can use GLM as well in C++.
-	[GLMC](./glmc.html) is a library in C which provides basic functionalities of OpenGL Mathemtics . 
+	[GLMC](https://github.com/ananyashreyjain/glmc) is a library in C which provides basic functionalities of OpenGL Mathemtics . 
