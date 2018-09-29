@@ -29,3 +29,7 @@ I am a punctual and motivated individual who is able to work in a busy environme
 
 # Blogs
 
+## GLMC
+   OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language(GLSL).
+   GLM provides classes and functions designed and implemented with the same naming conventions and functionalities than GLSL so that anyone who knows GLSL, can use GLM as well in C++.
+	[GLMC](./glmc.html) is a library in C which provides basic functionalities of OpenGL Mathemtics . 
